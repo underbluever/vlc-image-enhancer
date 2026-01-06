@@ -1,4 +1,4 @@
-# Underblue Nano Banana
+# VLC Frame Enhancer
 
 VLC snapshot -> crop -> enhance -> compare. This project adds a VLC Lua
 extension that triggers a snapshot, launches a Python UI, sends the cropped
